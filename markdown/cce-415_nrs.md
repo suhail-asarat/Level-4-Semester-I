@@ -20,7 +20,7 @@
 
 ### Chapter 3
 
-- [Website archived in Wayback Machine](https://web.archive.org/web/20250924032127/https://ccna.ilkom.unsri.ac.id/2/course/module3/index.html)
+- [Website archived in Wayback Machine](https://web.archive.org/web/20250924032538/https://ccna.ilkom.unsri.ac.id/2/course/module7/index.html)
 
 ### EIRGP
 

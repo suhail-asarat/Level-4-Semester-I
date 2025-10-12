@@ -26,9 +26,13 @@
 
 - [Materials in Google Classroom](https://classroom.google.com/u/0/c/NzgyNDcxNTg3NzQ2/m/NzgyNDcxNTg3ODE5/details)
 
+Till: AD (Administrative Distance)
+
 ### OSPF
 
 - [Materials in Google Classroom](https://classroom.google.com/u/0/c/NzgyNDcxNTg3NzQ2/a/NzgyNDcxNTg3ODIx/details)
+
+Till: OSPF LSA type
 
 ## Aprita Ma'am
 

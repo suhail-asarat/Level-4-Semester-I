@@ -1,7 +1,5 @@
 # CCE-417 Data Warehousing and Mining
 
-> to be updated
-
 > All files (books or slides) are linked to the title or the name
 
 **Book: [Data Mining: Concepts and Techniques](https://t.me/c/1734256119/3086/3579)**
@@ -22,16 +20,19 @@
 
 ## Sarna Ma'am
 
+$\star \star \star$ Exercises and Previous Questions
+
 **Book: [Data Mining: Concepts and Techniques](https://t.me/c/1734256119/3086/3607)**
 
-### Chapter 6
+### Chapter 6 : Mining Frequent Patterns,  Associations, and Correlations:  Basic Concepts and Methods
 
-### Chapter 8
+### Chapter 8 : Classification: Basic Concepts
 
 - [ID3](https://t.me/c/1734256119/3086/3707?single)
 - [DT-C4.5+CART](https://t.me/c/1734256119/3086/3706?single)
+- [Boosting](https://t.me/c/1734256119/3086/3918) (AdaBoost)
 
-### Chapter 10
+### Chapter 10 : Cluster Analysis: Basic  Concepts and Methods
 
 #### Partitioning Methods
 
@@ -40,12 +41,21 @@
 
 #### Density-Based Methods
 
+- [HAC](https://t.me/c/1734256119/3086/3920)
+- [BIRCH](https://t.me/c/1734256119/3086/3917)
 - [DBSCAN](https://t.me/c/1734256119/3086/3919)
 
-### Chapter 12
+#### Grid-Based Methods
 
-### Unsure
+- 10.5.1
+- 10.5.2 CLIQUE
 
-- [BIRCH](https://t.me/c/1734256119/3086/3917)
-- [Boosting](https://t.me/c/1734256119/3086/3918)
-- [HAC](https://t.me/c/1734256119/3086/3920)
+### Chapter 12 : Outlier Detection
+
+#### Outliers
+
+Types:
+
+- Global
+- Contextual
+- Collective

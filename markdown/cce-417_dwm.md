@@ -37,11 +37,16 @@ $\star \star \star$ Exercises and Previous Questions
 #### Partitioning Methods
 
 - [K-Clustering](https://t.me/c/1734256119/3086/3921)
-- k-Means, k-Medoids
+- k-Means
+- k-Medoids
+- k-Modes
+
+#### Hierarchy-Based Methods
+
+- [HAC](https://t.me/c/1734256119/3086/3920)
 
 #### Density-Based Methods
 
-- [HAC](https://t.me/c/1734256119/3086/3920)
 - [BIRCH](https://t.me/c/1734256119/3086/3917)
 - [DBSCAN](https://t.me/c/1734256119/3086/3919)
 
